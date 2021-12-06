@@ -3,8 +3,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Topaz_theKarma)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/TopazTK)
 
-Heya! I am Topaz Whitelock (Yes, I have changed my surname.) and well, this is my Github!
-In this page exist all of my projects since the end of 2021. I hope you can enjoy my work here!
+Heya! I am Topaz Whitelock (Yes, I have changed my surname.) and well, this is my Github!  
+In this page exist all of my projects since the end of 2021. I hope you can enjoy my work here!  
 
 _Some projects here may have been written whilst high, drunk, exhausted, or a combination of the three._
 
