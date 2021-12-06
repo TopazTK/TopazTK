@@ -13,6 +13,5 @@ _Some projects here may have been written whilst high, drunk, exhausted, or a co
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
-
+  
 ![Topaz Whitelock's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=TopazTK&show_icons=true&hide_rank=true&&count_private=true&theme=dark)
