@@ -1,6 +1,6 @@
 # Yo! TopazTK here, and I welcome you to my Git!
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Topaz_theKarma)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TopazWTK)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/TopazTK)
 
 Heya! I am Topaz Whitelock (Yes, I have changed my surname.) and well, this is my Github!  
